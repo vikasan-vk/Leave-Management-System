@@ -16,10 +16,7 @@ Desktop application developed using C# Windows Forms and SQL Server.
 - WinForms
 - SQL Server
 
-## Screenshots
-
-(Add screenshots)
 
 ## Author
 
-Vikasan
+Ramakrishnan Vikasan
